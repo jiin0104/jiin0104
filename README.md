@@ -32,10 +32,10 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<a href="https://blog.naver.com/jiin21c">
-		<img src="https://img.shields.io/badge/Blog-1572B6?style=for-the-badge&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:jiin21sc@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<br>
 </div>
